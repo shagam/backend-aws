@@ -1,0 +1,32 @@
+{
+  "name": "backend-aws",
+  "version": "1.0.0",
+  "description": "Back end for stock-chart on aws platform",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shagam/backend-aws.git"
+  },
+  "keywords": [
+    "Back",
+    "end",
+    "express",
+    "aws",
+    "stock",
+    "exchange"
+  ],
+  "author": "Eli Shagam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shagam/backend-aws/issues"
+  },
+  "homepage": "https://github.com/shagam/backend-aws#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
